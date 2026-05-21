@@ -1,4 +1,4 @@
-package com.aliucord.plugins;
+package com.github.yournamehere;
 
 import android.content.Context;
 import android.view.View;
